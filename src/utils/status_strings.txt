@@ -1,5 +1,4 @@
 Type in $help for more commands
 Made by matsko1506
-TEST
-TEST2
-TEST3
+Have a nice day
+Test
